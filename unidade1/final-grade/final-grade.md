@@ -47,5 +47,5 @@ Nota? 7.0
 Média parcial: 6.3
 Nota na final, pra média 5.0 = 3.0
 Nota na final, pra média 7.0 = 8.0
-$ _`
+$ _
 ```
