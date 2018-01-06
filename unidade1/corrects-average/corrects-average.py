@@ -2,9 +2,6 @@
 # Activity: Corrects Average
 # Author: Júlia Fernandes Alves <juliafealves@gmail.com>
 
-# Description:
-# Escreva um programa que calcule a média de um aluno.
-
 grade1 = 10.0
 grade2 = 5.0
 
