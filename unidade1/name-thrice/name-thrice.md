@@ -5,7 +5,7 @@ primeiro nome é referente à leitura da entrada padrão).
 
 ## Exemplo de execução
 
-```
+``` python
 python nome.py
 Dalton
 Dalton
